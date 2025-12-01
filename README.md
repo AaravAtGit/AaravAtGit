@@ -1,8 +1,8 @@
-<h1 align="center">Hi there 👋, I'm Aarav</h1>
+<h1 align="center">Hello there 👋, I'm Aarav</h1>
 
 <p align="center">
-  A passionate and self-taught developer diving deep into the world of <strong>Blockchain</strong> and <strong>Web3</strong>.<br/>
-  I specialize in <strong>Python</strong> and love building efficient, real-world solutions.
+  A passionate and self-taught developer trying to figure out what to do.<br/>
+  I specialise in <strong>Python</strong> and love building efficient, real-world solutions.
 </p>
 
 ---
