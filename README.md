@@ -79,7 +79,8 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AaravAtGit&theme=radical&no-frame=false&no-bg=false&margin-w=8"/>
+  
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=AaravAtGit&theme=radical&no-frame=false&no-bg=false&margin-w=8"/>
 </div>
 
 ---
