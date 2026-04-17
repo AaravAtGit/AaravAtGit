@@ -5,11 +5,18 @@
   I specialise in <strong>Python</strong> and love building efficient, real-world solutions.
 </p>
 
----
+
+
+<p align=center>
+  <img src="https://counter.lunoxia.net/get/@AaravAtGit?theme=asoul">
+</p>
+
+
 
 ## 🚀 Tech Stack
 
 <p align="center">
+  
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"/>
