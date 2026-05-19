@@ -72,12 +72,12 @@
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com/?user=AaravAtGit&theme=tokyonight&hide_border=false" width="60%" />
+  <img src="https://github-readme-streak-stats-rose-mu.vercel.app/?user=AaravAtGit&theme=tokyonight&hide_border=false" width="60%" />
 
 </div>
 
 
----
+
 
 ## 🏆 GitHub Trophies
 
