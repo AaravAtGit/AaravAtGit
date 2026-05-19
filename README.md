@@ -72,7 +72,7 @@
 
 <div align="center">
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AaravAtGit&theme=tokyonight&hide_border=false" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=AaravAtGit&theme=tokyonight&hide_border=false" width="60%" />
 
 </div>
 
