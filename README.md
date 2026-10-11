@@ -72,6 +72,10 @@
 
 <div align="center">
 
+  <img src="https://github-readme-stats-smoky-beta-80.vercel.app/api?username=AaravAtGit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" width="60%" />
+
+  <br/><br/>
+
   <img src="https://github-readme-streak-stats-rose-mu.vercel.app/?user=AaravAtGit&theme=tokyonight&hide_border=false" width="60%" />
 
 </div>
@@ -83,7 +87,7 @@
 
 <div align="center">
   
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=AaravAtGit&theme=radical&no-frame=false&no-bg=false&margin-w=8"/>
+  <img src="https://github-profile-trophy-sigma-rouge.vercel.app/?username=AaravAtGit&theme=radical&no-frame=false&no-bg=false&margin-w=8"/>
 </div>
 
 ---
@@ -91,7 +95,7 @@
 ## 📈 Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AaravAtGit&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph-liart-six.vercel.app/graph?username=AaravAtGit&theme=tokyo-night&hide_border=true"/>
 </div>
 
 ---
@@ -99,7 +103,7 @@
 ## ✨ Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://github-readme-quotes-sage.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 ---
