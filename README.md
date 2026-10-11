@@ -72,11 +72,11 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats-smoky-beta-80.vercel.app/api?username=AaravAtGit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" width="60%" />
+  <img src="https://github-readme-stats-smoky-beta-80.vercel.app/api?username=AaravAtGit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&v=1" width="60%" />
 
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats-rose-mu.vercel.app/?user=AaravAtGit&theme=tokyonight&hide_border=false" width="60%" />
+  <img src="https://github-readme-streak-stats-rose-mu.vercel.app/?user=AaravAtGit&theme=tokyonight&hide_border=false&v=1" width="60%" />
 
 </div>
 
