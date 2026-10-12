@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Aarav</h1>
 
 <p align="center">
-  A passionate and self-taught developer trying to figure out what to do.<br/>
+  A passionate and self-taught developer building cool stuff.<br/>
   I specialise in <strong>Python</strong> and love building efficient, real-world solutions.
 </p>
 
@@ -90,7 +90,7 @@
   <img src="https://github-profile-trophy-sigma-rouge.vercel.app/?username=AaravAtGit&theme=radical&no-frame=false&no-bg=false&margin-w=8"/>
 </div>
 
----
+
 
 ## 📈 Contributions
 
@@ -98,12 +98,4 @@
   <img src="https://github-readme-activity-graph-liart-six.vercel.app/graph?username=AaravAtGit&theme=tokyo-night&hide_border=true"/>
 </div>
 
----
 
-## ✨ Quote of the Day
-
-<div align="center">
-  <img src="https://github-readme-quotes-sage.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
